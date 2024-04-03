@@ -4,7 +4,7 @@
     {
         public void Deliver()
         {
-            Console.WriteLine("Deliver  by land in a box");
+            Console.WriteLine("Deliver by land in a box");
         }
     }
 }
